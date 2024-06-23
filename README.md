@@ -1,5 +1,7 @@
 <h1>Yeni Nesil Tamamen Türkçe Müzik Botu</h1>
 
+[deploy]=[https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fayiin.vercel.app%2F&template=https://github.com/Rq7mg/Toxicgncl/True]
+
 Telegram sohbet gruplarında hem müzik dinleyebileceğiniz hem de video izleyebileceğiniz müzik botudur.
 Bot tamamen açık kaynak kodludur istediğiniz gibi kullanabilirsiniz.
 
