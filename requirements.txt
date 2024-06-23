@@ -1,4 +1,4 @@
-git+https://github.com/pikaws/worexis-dlp
+git+https://github.com/Meyit47/Ytp
 aiofiles
 aiohttp
 asyncio
