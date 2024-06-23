@@ -1,4 +1,4 @@
-https://github.com/Meyit47/Ytp
+git+https://github.com/Meyit47/Ytp
 aiofiles
 aiohttp
 asyncio
