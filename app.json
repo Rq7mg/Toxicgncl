@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "27970425",
+        "value": "22659994",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "9415d266338d23de1cdaecd115ce7bb8",
+        "value": "2c89964a0088a7a39ec819c60ae67de7",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6058282484:AAGnSHnhPw3YGaWBYolnhjR0uXvkHObmCpA",
+        "value": "5909970619:AAFdXkt2Hmx7n9DEB91EtywZRpefsc5RZ5c",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -40,17 +40,17 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "Vanced Muzik Bot",
+        "value": "Pulsar Music",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6058282484",
+        "value": "6563936773",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BAGqy3kAjzZURdywJ0giHY2kpXfAYaVnrAIBgHMxmeYWZcCa0YVrtrPDeDWNDB5GdfCliesyX2lbvLRxdEyOwGv_U7AmBo0wAW_AP4SILgJzjvHAtRLbiiythsXU5mOYTECQ_2robPWFM25W-GLe-T1f1hoHvXVGvolZedO_hXmdNNxt3-YeEI7Q9cm8iPf75AIWpNjOnzKxydlUm7uuo7xUmwfI52cfIBEkOLbDPMOYqELaWwyk78nwJKHTC8uX2QRWFcz05wfCP1LgL_ChRWtj9ltLURsJTpg2thK_opoXG447KQypYapG4gDg-_vmb_ky3ftXLf7dDeAoGbjRMNScS5kCKQAAAAGXygxbAA",
+        "value": "BAFZw5oAgewWLrNY04sek0zw_KOu7oSYv20zzf1pzP2A12BMqIAUFj-HupbN6N90Z4pjtIWJ9kNBjMkewWOS6Xt3MFKhdto1iOAwru258wWqCPajF5Zgb0qXAsWgH1tfUjm3eqa7FI5qLFe-aTo8CDiN3ww8IKMbW6HeRPAn7II_7qrwo1DaUlA6bx943BkA7FNWhd_lVXMkOQ27UfK-uMj-o3Djnx2vngAVlEmxHqn6RCYSppsc89xcwlT2nL8alTNZ8qowVsjlIm1HGtuq_3CjhXXuPBEuGHG-VljGTwb9D3pWGQ6IL-500m4_reH3PJN2NYjYtrFNzDTsqTVmuxSA4ATJRQAAAAG-dXUpAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -60,12 +60,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "vanceddm",
+        "value": "pulsarmzk",
         "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "-1001909989472",
+        "value": "-1001343199487",
         "required": true
       },
       "UPSTREAM_REPO": {
